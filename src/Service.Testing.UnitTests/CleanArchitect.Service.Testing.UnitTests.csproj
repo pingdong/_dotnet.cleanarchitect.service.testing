@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PingDong.CleanArchitect.Service.Testing\PingDong.CleanArchitect.Service.Testing.csproj" />
+    <ProjectReference Include="..\Service.Testing\CleanArchitect.Service.Testing.csproj" />
   </ItemGroup>
 
 </Project>
